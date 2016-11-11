@@ -1,0 +1,1 @@
+Download files, open index.html in your browser of choice, and use the WASD or arrow keys to navigate your player past the bugs to the water! 
